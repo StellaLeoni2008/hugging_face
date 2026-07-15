@@ -1,7 +1,7 @@
 <h1 align="center"> 🤗 AI Applications with Hugging Face </h1>
 
 <p align="center">
-<img width="900" height="500" alt="5db37746-bf03-4d73-86c9-747f426e3238" src="https://github.com/user-attachments/assets/d72d9ab9-a464-44ff-ae91-ec882a4d0041" />
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/12a02db5-b184-4c2a-a979-3a770685e551" />
 </p>
 
 ## 💻 Technologies Used
