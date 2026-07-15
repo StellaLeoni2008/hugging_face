@@ -1,5 +1,0 @@
-gradio
-transformers
-Pillow
-torchvision
-scikit-image
